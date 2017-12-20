@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecureApp</string>
+    <string name="hi">Hi</string>
+    <string name="accept">Accept</string>
+    <string name="message_success">The application was downloaded from google play.</string>
+    <string name="message_root">The app can not be executed on root phones.</string>
+    <string name="message_hash">The application has been compromised, please delete it and download
+        the official application from Google Play.</string>
+    <string name="message_store">The application has been downloaded from an unauthorized store.\nPlease download the app from Google Play.</string>
+</resources>
